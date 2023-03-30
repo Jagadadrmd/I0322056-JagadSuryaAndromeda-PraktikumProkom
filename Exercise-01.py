@@ -1,8 +1,8 @@
 print("Nama : Jagad Surya Andromeda")
 print("NIM  : I0322056")
-print("Asal : Ngawi, Jawa Timur\n")
+print("Asal : Ngawi, Jawa Timur")
 
-print("=============================\n")
+print("=============================")
 
 print("Kabupaten Ngawi adalah terletak di perbatasan Jawa Timur dengan Jawa Tengah")
 print("Kabupaten Ngawi adalah salah satu dari tiga kabupaten yang terletak di kaki gunung Lawu")
